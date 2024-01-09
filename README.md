@@ -5,7 +5,7 @@ OpenGL 3D model drawing using matrix transformation functions using GLEW[^1] to 
 
 > [!NOTE]
 > Please ignore any artifacts or lower framerate in the GIF, these are products of the GIF compression, in execution the 3D model is displayed without artifacts and at 60 FPS.
-[^1]: GLEW - OpenGL Extension Wrangler Library https://glew.sourceforge.net/
-[^2]: GLFW - Multi-platform library for OpenGL, OpenGL ES and Vulkan development on the desktop https://www.glfw.org/
+[^1]: OpenGL Extension Wrangler Library [GLEW}(https://glew.sourceforge.net/)
+[^2]: Multi-platform library for OpenGL, OpenGL ES and Vulkan development on the desktop [GLFW](https://www.glfw.org/)
 
  
