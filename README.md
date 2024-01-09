@@ -1,6 +1,5 @@
 # TNTCrate
-OpenGL 3D model drawing using matrix transformation functions using GLEW[^1] to help manage OpenGL extensions, GLFW[^2] for window managemend with OpenGL contexts and managing user input.
-texture UV mapping
+OpenGL 3D model drawing using matrix transformation functions using GLEW[^1] to help manage OpenGL extensions and texture UV mapping, and GLFW[^2] for window managemend with OpenGL contexts and managing user input.
 
 ![TNT_optimised](https://github.com/MethodCa/TNTCrate/assets/15893276/9e6ba03a-8839-447a-8e5b-3ae54be0958c)
 
